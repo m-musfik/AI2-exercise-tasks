@@ -19,6 +19,13 @@ import torch
 # normal distribution. Pass the dimensions as arguments.
 
 
+batch = torch.randn(2, 3, 224, 224)
+print("Task 1:")
+print(batch.shape)
+print(batch.dtype)
+print(batch.device)
+
+
 # ===========================================================================
 # Task 2: Device Transfer
 # ===========================================================================
@@ -29,6 +36,16 @@ import torch
 # Step 2: Move the tensor using .to('cuda').
 # Step 3: Print the .device attribute to confirm.
 
+print("Task 2:")
+print(f"Is cuda available: {torch.cuda.is_available()}")
+if torch.cuda.is_available():
+    batch_gpu = batch.to("cuda")
+    print(batch_gpu.device)
+else:
+    print("Sorry, no cuda...")
+    
+    
+    
 
 # ===========================================================================
 # Task 3: Indexing and Slicing
