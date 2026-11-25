@@ -77,11 +77,17 @@ def objective(trial, base_config):
     #   Step 4: Update the config dict with the suggested values:
     #           config["training"]["learning_rate"] = lr
     #           ... and so on for dropout and batch_size.
+    
+    config["training"]["learning_rate"] = trial.suggest_float("learning_rate", 1e-5, 1e-2, log=True)
+    config["model"]["dropout"] = trial.suggest_float("dropout", 0.2, 0.7)
+    config["data"]["batch_size"] = trial.suggest_categorical("batch_size", [16, 32, 64])
 
     # TODO: Call train_and_evaluate(config) and return the result.
     #       This trains the model with the suggested hyperparameters
     #       and returns the best validation accuracy.
-    val_accuracy = None # TODO: Replace "None" with the actual call to train_and_evaluate(config)
+    
+    config["training"]["n_epochs"] = 5  # Limit to 5 epochs for speed during hyperparameter search
+    val_accuracy = train_and_evaluate(config) # TODO: Replace "None" with the actual call to train_and_evaluate(config)
 
     return val_accuracy
 
@@ -98,7 +104,7 @@ def main(config_path):
     #   Step 2: Set direction="maximize" — we want the highest
     #           validation accuracy, not the lowest.
     #   Step 3: Optionally set study_name to the experiment name from config.
-    study = None # TODO: Replace "None" with the actual call to optuna.create_study()
+    study = optuna.create_study(direction="maximize", study_name=base_config["experiment_name"])
 
     # Run the optimization.
     #

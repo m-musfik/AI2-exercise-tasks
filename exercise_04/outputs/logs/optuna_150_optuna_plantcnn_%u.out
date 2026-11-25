@@ -1,0 +1,649 @@
+Loaded base config from: config.yaml
+Starting Optuna hyperparameter search...
+    Batch [10/92] Loss: 2.4069
+    Batch [20/92] Loss: 2.2715
+    Batch [30/92] Loss: 2.3292
+    Batch [40/92] Loss: 2.2423
+    Batch [50/92] Loss: 2.2722
+    Batch [60/92] Loss: 2.2487
+    Batch [70/92] Loss: 2.2141
+    Batch [80/92] Loss: 2.2584
+    Batch [90/92] Loss: 2.2048
+  Epoch [1/10] Train Loss: 2.2810 Acc: 0.1458 | Val Loss: 2.2102 Acc: 0.2383
+  Saved best checkpoint to outputs/checkpoints/plantwild_optuna_plantcnn_best.pt
+    Batch [10/92] Loss: 2.2121
+    Batch [20/92] Loss: 2.2565
+    Batch [30/92] Loss: 2.1618
+    Batch [40/92] Loss: 2.2567
+    Batch [50/92] Loss: 2.2214
+    Batch [60/92] Loss: 2.1765
+    Batch [70/92] Loss: 2.2744
+    Batch [80/92] Loss: 2.2313
+    Batch [90/92] Loss: 2.1913
+  Epoch [2/10] Train Loss: 2.2213 Acc: 0.1892 | Val Loss: 2.1685 Acc: 0.2455
+  Saved best checkpoint to outputs/checkpoints/plantwild_optuna_plantcnn_best.pt
+    Batch [10/92] Loss: 2.2683
+    Batch [20/92] Loss: 2.2465
+    Batch [30/92] Loss: 2.3030
+    Batch [40/92] Loss: 2.2098
+    Batch [50/92] Loss: 2.1949
+    Batch [60/92] Loss: 2.2016
+    Batch [70/92] Loss: 2.1512
+    Batch [80/92] Loss: 2.2318
+    Batch [90/92] Loss: 2.1341
+  Epoch [3/10] Train Loss: 2.2125 Acc: 0.1995 | Val Loss: 2.1388 Acc: 0.2900
+  Saved best checkpoint to outputs/checkpoints/plantwild_optuna_plantcnn_best.pt
+    Batch [10/92] Loss: 2.2131
+    Batch [20/92] Loss: 2.1982
+    Batch [30/92] Loss: 2.2350
+    Batch [40/92] Loss: 2.1444
+    Batch [50/92] Loss: 2.2689
+    Batch [60/92] Loss: 2.2799
+    Batch [70/92] Loss: 2.1844
+    Batch [80/92] Loss: 2.1591
+    Batch [90/92] Loss: 2.1847
+  Epoch [4/10] Train Loss: 2.1886 Acc: 0.2176 | Val Loss: 2.1091 Acc: 0.3069
+  Saved best checkpoint to outputs/checkpoints/plantwild_optuna_plantcnn_best.pt
+    Batch [10/92] Loss: 2.1204
+    Batch [20/92] Loss: 2.2432
+    Batch [30/92] Loss: 2.2584
+    Batch [40/92] Loss: 2.2180
+    Batch [50/92] Loss: 2.3688
+    Batch [60/92] Loss: 2.1923
+    Batch [70/92] Loss: 2.1213
+    Batch [80/92] Loss: 2.1950
+    Batch [90/92] Loss: 2.1401
+  Epoch [5/10] Train Loss: 2.1773 Acc: 0.2322 | Val Loss: 2.0862 Acc: 0.3165
+  Saved best checkpoint to outputs/checkpoints/plantwild_optuna_plantcnn_best.pt
+    Batch [10/92] Loss: 2.1480
+    Batch [20/92] Loss: 2.1278
+    Batch [30/92] Loss: 2.1494
+    Batch [40/92] Loss: 2.0636
+    Batch [50/92] Loss: 2.1091
+    Batch [60/92] Loss: 2.1639
+    Batch [70/92] Loss: 2.2528
+    Batch [80/92] Loss: 1.9872
+    Batch [90/92] Loss: 2.1100
+  Epoch [6/10] Train Loss: 2.1576 Acc: 0.2380 | Val Loss: 2.0659 Acc: 0.3237
+  Saved best checkpoint to outputs/checkpoints/plantwild_optuna_plantcnn_best.pt
+    Batch [10/92] Loss: 2.0824
+    Batch [20/92] Loss: 2.1356
+    Batch [30/92] Loss: 2.1555
+    Batch [40/92] Loss: 2.1641
+    Batch [50/92] Loss: 2.2157
+    Batch [60/92] Loss: 2.2132
+    Batch [70/92] Loss: 2.2340
+    Batch [80/92] Loss: 2.0673
+    Batch [90/92] Loss: 2.2421
+  Epoch [7/10] Train Loss: 2.1465 Acc: 0.2452 | Val Loss: 2.0547 Acc: 0.3285
+  Saved best checkpoint to outputs/checkpoints/plantwild_optuna_plantcnn_best.pt
+    Batch [10/92] Loss: 2.1654
+    Batch [20/92] Loss: 1.9817
+    Batch [30/92] Loss: 2.1455
+    Batch [40/92] Loss: 2.1253
+    Batch [50/92] Loss: 2.0470
+    Batch [60/92] Loss: 2.0255
+    Batch [70/92] Loss: 2.1789
+    Batch [80/92] Loss: 2.1975
+    Batch [90/92] Loss: 2.1298
+  Epoch [8/10] Train Loss: 2.1290 Acc: 0.2497 | Val Loss: 2.0392 Acc: 0.3201
+    Batch [10/92] Loss: 2.2003
+    Batch [20/92] Loss: 2.2182
+    Batch [30/92] Loss: 1.9736
+    Batch [40/92] Loss: 2.2733
+    Batch [50/92] Loss: 2.1033
+    Batch [60/92] Loss: 2.0809
+    Batch [70/92] Loss: 2.1824
+    Batch [80/92] Loss: 2.2471
+    Batch [90/92] Loss: 2.1748
+  Epoch [9/10] Train Loss: 2.1239 Acc: 0.2575 | Val Loss: 2.0200 Acc: 0.3333
+  Saved best checkpoint to outputs/checkpoints/plantwild_optuna_plantcnn_best.pt
+    Batch [10/92] Loss: 1.9765
+    Batch [20/92] Loss: 2.1996
+    Batch [30/92] Loss: 2.1537
+    Batch [40/92] Loss: 2.1265
+    Batch [50/92] Loss: 2.1151
+    Batch [60/92] Loss: 2.0866
+    Batch [70/92] Loss: 2.0161
+    Batch [80/92] Loss: 2.0764
+    Batch [90/92] Loss: 2.0585
+  Epoch [10/10] Train Loss: 2.1206 Acc: 0.2517 | Val Loss: 2.0070 Acc: 0.3369
+  Saved best checkpoint to outputs/checkpoints/plantwild_optuna_plantcnn_best.pt
+    Batch [10/92] Loss: 2.2752
+    Batch [20/92] Loss: 2.2464
+    Batch [30/92] Loss: 2.2513
+    Batch [40/92] Loss: 2.1950
+    Batch [50/92] Loss: 2.1949
+    Batch [60/92] Loss: 2.0656
+    Batch [70/92] Loss: 2.1500
+    Batch [80/92] Loss: 2.1793
+    Batch [90/92] Loss: 2.0160
+  Epoch [1/10] Train Loss: 2.2164 Acc: 0.2001 | Val Loss: 2.1088 Acc: 0.2828
+  Saved best checkpoint to outputs/checkpoints/plantwild_optuna_plantcnn_best.pt
+    Batch [10/92] Loss: 2.1551
+    Batch [20/92] Loss: 2.1487
+    Batch [30/92] Loss: 1.9809
+    Batch [40/92] Loss: 2.1961
+    Batch [50/92] Loss: 2.1987
+    Batch [60/92] Loss: 2.0800
+    Batch [70/92] Loss: 2.1658
+    Batch [80/92] Loss: 2.0727
+    Batch [90/92] Loss: 2.1310
+  Epoch [2/10] Train Loss: 2.1323 Acc: 0.2561 | Val Loss: 2.0243 Acc: 0.3189
+  Saved best checkpoint to outputs/checkpoints/plantwild_optuna_plantcnn_best.pt
+    Batch [10/92] Loss: 2.0894
+    Batch [20/92] Loss: 2.0640
+    Batch [30/92] Loss: 2.1758
+    Batch [40/92] Loss: 2.0903
+    Batch [50/92] Loss: 1.9946
+    Batch [60/92] Loss: 2.0407
+    Batch [70/92] Loss: 1.9500
+    Batch [80/92] Loss: 2.1856
+    Batch [90/92] Loss: 2.0509
+  Epoch [3/10] Train Loss: 2.0996 Acc: 0.2582 | Val Loss: 1.9847 Acc: 0.3345
+  Saved best checkpoint to outputs/checkpoints/plantwild_optuna_plantcnn_best.pt
+    Batch [10/92] Loss: 2.1809
+    Batch [20/92] Loss: 2.0552
+    Batch [30/92] Loss: 2.2011
+    Batch [40/92] Loss: 2.0362
+    Batch [50/92] Loss: 2.1666
+    Batch [60/92] Loss: 2.1758
+    Batch [70/92] Loss: 1.9839
+    Batch [80/92] Loss: 2.0278
+    Batch [90/92] Loss: 1.9622
+  Epoch [4/10] Train Loss: 2.0611 Acc: 0.2814 | Val Loss: 1.9336 Acc: 0.3394
+  Saved best checkpoint to outputs/checkpoints/plantwild_optuna_plantcnn_best.pt
+    Batch [10/92] Loss: 1.9672
+    Batch [20/92] Loss: 2.0606
+    Batch [30/92] Loss: 2.1228
+    Batch [40/92] Loss: 2.1046
+    Batch [50/92] Loss: 2.2881
+    Batch [60/92] Loss: 2.0661
+    Batch [70/92] Loss: 2.0300
+    Batch [80/92] Loss: 2.1805
+    Batch [90/92] Loss: 2.0150
+  Epoch [5/10] Train Loss: 2.0547 Acc: 0.2695 | Val Loss: 1.8991 Acc: 0.3803
+  Saved best checkpoint to outputs/checkpoints/plantwild_optuna_plantcnn_best.pt
+    Batch [10/92] Loss: 2.0772
+    Batch [20/92] Loss: 2.1201
+    Batch [30/92] Loss: 2.0039
+    Batch [40/92] Loss: 1.8571
+    Batch [50/92] Loss: 1.8814
+    Batch [60/92] Loss: 2.1662
+    Batch [70/92] Loss: 2.1433
+    Batch [80/92] Loss: 1.8295
+    Batch [90/92] Loss: 1.9516
+  Epoch [6/10] Train Loss: 2.0283 Acc: 0.2862 | Val Loss: 1.8921 Acc: 0.3827
+  Saved best checkpoint to outputs/checkpoints/plantwild_optuna_plantcnn_best.pt
+    Batch [10/92] Loss: 1.8869
+    Batch [20/92] Loss: 2.0130
+    Batch [30/92] Loss: 2.0319
+    Batch [40/92] Loss: 2.0095
+    Batch [50/92] Loss: 2.1994
+    Batch [60/92] Loss: 2.1045
+    Batch [70/92] Loss: 2.0714
+    Batch [80/92] Loss: 1.9910
+    Batch [90/92] Loss: 1.9467
+  Epoch [7/10] Train Loss: 2.0179 Acc: 0.2900 | Val Loss: 1.8665 Acc: 0.3730
+    Batch [10/92] Loss: 2.1867
+    Batch [20/92] Loss: 1.8768
+    Batch [30/92] Loss: 1.9528
+    Batch [40/92] Loss: 2.0263
+    Batch [50/92] Loss: 1.8238
+    Batch [60/92] Loss: 1.9234
+    Batch [70/92] Loss: 2.0302
+    Batch [80/92] Loss: 2.0090
+    Batch [90/92] Loss: 1.8744
+  Epoch [8/10] Train Loss: 1.9840 Acc: 0.2982 | Val Loss: 1.8394 Acc: 0.3887
+  Saved best checkpoint to outputs/checkpoints/plantwild_optuna_plantcnn_best.pt
+    Batch [10/92] Loss: 2.0867
+    Batch [20/92] Loss: 2.1186
+    Batch [30/92] Loss: 1.7187
+    Batch [40/92] Loss: 2.1498
+    Batch [50/92] Loss: 1.9036
+    Batch [60/92] Loss: 1.8825
+    Batch [70/92] Loss: 1.9185
+    Batch [80/92] Loss: 2.2733
+    Batch [90/92] Loss: 2.0805
+  Epoch [9/10] Train Loss: 1.9859 Acc: 0.2988 | Val Loss: 1.8075 Acc: 0.3935
+  Saved best checkpoint to outputs/checkpoints/plantwild_optuna_plantcnn_best.pt
+    Batch [10/92] Loss: 1.9903
+    Batch [20/92] Loss: 2.1090
+    Batch [30/92] Loss: 1.9295
+    Batch [40/92] Loss: 1.9874
+    Batch [50/92] Loss: 1.8329
+    Batch [60/92] Loss: 1.7681
+    Batch [70/92] Loss: 1.9346
+    Batch [80/92] Loss: 1.9318
+    Batch [90/92] Loss: 1.7517
+  Epoch [10/10] Train Loss: 1.9765 Acc: 0.3152 | Val Loss: 1.8565 Acc: 0.3442
+    Batch [10/92] Loss: 2.3014
+    Batch [20/92] Loss: 2.1917
+    Batch [30/92] Loss: 2.1475
+    Batch [40/92] Loss: 2.2484
+    Batch [50/92] Loss: 2.2354
+    Batch [60/92] Loss: 1.9601
+    Batch [70/92] Loss: 2.0825
+    Batch [80/92] Loss: 2.1778
+    Batch [90/92] Loss: 2.0731
+  Epoch [1/10] Train Loss: 2.2065 Acc: 0.1831 | Val Loss: 2.1415 Acc: 0.1865
+  Saved best checkpoint to outputs/checkpoints/plantwild_optuna_plantcnn_best.pt
+    Batch [10/92] Loss: 2.0505
+    Batch [20/92] Loss: 2.1056
+    Batch [30/92] Loss: 1.8873
+    Batch [40/92] Loss: 2.1448
+    Batch [50/92] Loss: 2.0862
+    Batch [60/92] Loss: 2.1279
+    Batch [70/92] Loss: 2.1140
+    Batch [80/92] Loss: 2.0870
+    Batch [90/92] Loss: 2.0774
+  Epoch [2/10] Train Loss: 2.1109 Acc: 0.2411 | Val Loss: 2.0045 Acc: 0.3213
+  Saved best checkpoint to outputs/checkpoints/plantwild_optuna_plantcnn_best.pt
+    Batch [10/92] Loss: 2.0430
+    Batch [20/92] Loss: 1.9815
+    Batch [30/92] Loss: 2.1074
+    Batch [40/92] Loss: 2.0911
+    Batch [50/92] Loss: 2.0339
+    Batch [60/92] Loss: 1.9879
+    Batch [70/92] Loss: 1.9687
+    Batch [80/92] Loss: 2.2228
+    Batch [90/92] Loss: 2.1184
+  Epoch [3/10] Train Loss: 2.0949 Acc: 0.2575 | Val Loss: 2.0813 Acc: 0.2335
+    Batch [10/92] Loss: 2.0686
+    Batch [20/92] Loss: 2.0017
+    Batch [30/92] Loss: 2.2007
+    Batch [40/92] Loss: 2.0123
+    Batch [50/92] Loss: 2.1638
+    Batch [60/92] Loss: 2.0737
+    Batch [70/92] Loss: 1.9269
+    Batch [80/92] Loss: 2.1705
+    Batch [90/92] Loss: 1.8913
+  Epoch [4/10] Train Loss: 2.0550 Acc: 0.2766 | Val Loss: 1.9426 Acc: 0.3201
+    Batch [10/92] Loss: 1.9273
+    Batch [20/92] Loss: 2.1227
+    Batch [30/92] Loss: 2.1770
+    Batch [40/92] Loss: 2.1026
+    Batch [50/92] Loss: 2.2541
+    Batch [60/92] Loss: 2.0358
+    Batch [70/92] Loss: 2.1756
+    Batch [80/92] Loss: 2.2016
+    Batch [90/92] Loss: 1.9966
+  Epoch [5/10] Train Loss: 2.0432 Acc: 0.2698 | Val Loss: 1.9178 Acc: 0.3490
+  Saved best checkpoint to outputs/checkpoints/plantwild_optuna_plantcnn_best.pt
+    Batch [10/92] Loss: 1.9421
+    Batch [20/92] Loss: 2.1970
+    Batch [30/92] Loss: 1.8357
+    Batch [40/92] Loss: 1.7074
+    Batch [50/92] Loss: 1.8896
+    Batch [60/92] Loss: 2.1831
+    Batch [70/92] Loss: 2.0110
+    Batch [80/92] Loss: 1.7837
+    Batch [90/92] Loss: 1.9773
+  Epoch [6/10] Train Loss: 2.0318 Acc: 0.2777 | Val Loss: 1.8964 Acc: 0.3622
+  Saved best checkpoint to outputs/checkpoints/plantwild_optuna_plantcnn_best.pt
+    Batch [10/92] Loss: 1.7689
+    Batch [20/92] Loss: 2.0867
+    Batch [30/92] Loss: 2.0821
+    Batch [40/92] Loss: 1.9435
+    Batch [50/92] Loss: 2.0740
+    Batch [60/92] Loss: 2.1846
+    Batch [70/92] Loss: 2.0428
+    Batch [80/92] Loss: 2.0713
+    Batch [90/92] Loss: 1.9829
+  Epoch [7/10] Train Loss: 2.0189 Acc: 0.2852 | Val Loss: 1.8493 Acc: 0.3622
+    Batch [10/92] Loss: 2.0875
+    Batch [20/92] Loss: 1.9230
+    Batch [30/92] Loss: 1.9121
+    Batch [40/92] Loss: 1.8868
+    Batch [50/92] Loss: 1.7335
+    Batch [60/92] Loss: 1.8819
+    Batch [70/92] Loss: 2.1348
+    Batch [80/92] Loss: 1.9254
+    Batch [90/92] Loss: 1.8663
+  Epoch [8/10] Train Loss: 1.9757 Acc: 0.2975 | Val Loss: 1.8228 Acc: 0.3863
+  Saved best checkpoint to outputs/checkpoints/plantwild_optuna_plantcnn_best.pt
+    Batch [10/92] Loss: 2.0782
+    Batch [20/92] Loss: 2.2452
+    Batch [30/92] Loss: 1.6866
+    Batch [40/92] Loss: 2.0058
+    Batch [50/92] Loss: 1.8338
+    Batch [60/92] Loss: 1.8051
+    Batch [70/92] Loss: 2.0038
+    Batch [80/92] Loss: 2.2016
+    Batch [90/92] Loss: 2.1018
+  Epoch [9/10] Train Loss: 1.9856 Acc: 0.2927 | Val Loss: 1.8682 Acc: 0.3550
+    Batch [10/92] Loss: 2.0518
+    Batch [20/92] Loss: 2.1460
+    Batch [30/92] Loss: 1.9216
+    Batch [40/92] Loss: 2.0402
+    Batch [50/92] Loss: 1.9466
+    Batch [60/92] Loss: 1.8240
+    Batch [70/92] Loss: 1.9649
+    Batch [80/92] Loss: 1.9673
+    Batch [90/92] Loss: 1.6669
+  Epoch [10/10] Train Loss: 1.9829 Acc: 0.3026 | Val Loss: 1.7761 Acc: 0.3923
+  Saved best checkpoint to outputs/checkpoints/plantwild_optuna_plantcnn_best.pt
+    Batch [10/92] Loss: 2.5108
+    Batch [20/92] Loss: 2.2373
+    Batch [30/92] Loss: 2.2748
+    Batch [40/92] Loss: 2.2708
+    Batch [50/92] Loss: 2.2812
+    Batch [60/92] Loss: 2.0967
+    Batch [70/92] Loss: 2.1772
+    Batch [80/92] Loss: 2.2476
+    Batch [90/92] Loss: 2.1145
+  Epoch [1/10] Train Loss: 2.2730 Acc: 0.1527 | Val Loss: 2.1929 Acc: 0.1637
+  Saved best checkpoint to outputs/checkpoints/plantwild_optuna_plantcnn_best.pt
+    Batch [10/92] Loss: 2.2267
+    Batch [20/92] Loss: 2.2883
+    Batch [30/92] Loss: 2.2345
+    Batch [40/92] Loss: 2.2125
+    Batch [50/92] Loss: 2.2477
+    Batch [60/92] Loss: 2.2771
+    Batch [70/92] Loss: 2.1954
+    Batch [80/92] Loss: 2.2355
+    Batch [90/92] Loss: 2.2362
+  Epoch [2/10] Train Loss: 2.2307 Acc: 0.1687 | Val Loss: 2.2026 Acc: 0.2154
+  Saved best checkpoint to outputs/checkpoints/plantwild_optuna_plantcnn_best.pt
+    Batch [10/92] Loss: 2.2325
+    Batch [20/92] Loss: 2.1428
+    Batch [30/92] Loss: 2.2457
+    Batch [40/92] Loss: 2.2240
+    Batch [50/92] Loss: 2.1719
+    Batch [60/92] Loss: 2.2162
+    Batch [70/92] Loss: 2.2162
+    Batch [80/92] Loss: 2.2699
+    Batch [90/92] Loss: 2.0226
+  Epoch [3/10] Train Loss: 2.2252 Acc: 0.1766 | Val Loss: 2.1583 Acc: 0.2335
+  Saved best checkpoint to outputs/checkpoints/plantwild_optuna_plantcnn_best.pt
+    Batch [10/92] Loss: 2.1489
+    Batch [20/92] Loss: 2.1097
+    Batch [30/92] Loss: 2.1751
+    Batch [40/92] Loss: 2.1538
+    Batch [50/92] Loss: 2.2079
+    Batch [60/92] Loss: 2.2984
+    Batch [70/92] Loss: 2.1709
+    Batch [80/92] Loss: 2.2667
+    Batch [90/92] Loss: 2.1602
+  Epoch [4/10] Train Loss: 2.2250 Acc: 0.1667 | Val Loss: 2.1641 Acc: 0.2094
+    Batch [10/92] Loss: 2.1366
+    Batch [20/92] Loss: 2.2882
+    Batch [30/92] Loss: 2.1790
+    Batch [40/92] Loss: 2.2328
+    Batch [50/92] Loss: 2.1930
+    Batch [60/92] Loss: 2.1631
+    Batch [70/92] Loss: 2.2628
+    Batch [80/92] Loss: 2.4479
+    Batch [90/92] Loss: 2.1135
+  Epoch [5/10] Train Loss: 2.2117 Acc: 0.1837 | Val Loss: 2.1683 Acc: 0.1925
+    Batch [10/92] Loss: 2.2719
+    Batch [20/92] Loss: 2.2701
+    Batch [30/92] Loss: 2.1239
+    Batch [40/92] Loss: 2.1331
+    Batch [50/92] Loss: 2.1796
+    Batch [60/92] Loss: 2.1586
+    Batch [70/92] Loss: 2.2392
+    Batch [80/92] Loss: 2.1028
+    Batch [90/92] Loss: 2.1091
+  Epoch [6/10] Train Loss: 2.2083 Acc: 0.1960 | Val Loss: 2.1225 Acc: 0.2455
+  Saved best checkpoint to outputs/checkpoints/plantwild_optuna_plantcnn_best.pt
+    Batch [10/92] Loss: 2.0842
+    Batch [20/92] Loss: 2.2037
+    Batch [30/92] Loss: 2.1944
+    Batch [40/92] Loss: 2.1440
+    Batch [50/92] Loss: 2.2596
+    Batch [60/92] Loss: 2.4064
+    Batch [70/92] Loss: 2.2255
+    Batch [80/92] Loss: 2.2652
+    Batch [90/92] Loss: 2.3068
+  Epoch [7/10] Train Loss: 2.2026 Acc: 0.1837 | Val Loss: 2.1355 Acc: 0.2178
+    Batch [10/92] Loss: 2.2937
+    Batch [20/92] Loss: 2.2325
+    Batch [30/92] Loss: 2.2041
+    Batch [40/92] Loss: 2.2022
+    Batch [50/92] Loss: 2.1185
+    Batch [60/92] Loss: 2.1862
+    Batch [70/92] Loss: 2.2424
+    Batch [80/92] Loss: 2.1993
+    Batch [90/92] Loss: 2.2140
+  Epoch [8/10] Train Loss: 2.2004 Acc: 0.1796 | Val Loss: 2.1151 Acc: 0.2431
+    Batch [10/92] Loss: 2.1794
+    Batch [20/92] Loss: 2.3614
+    Batch [30/92] Loss: 1.9912
+    Batch [40/92] Loss: 2.2469
+    Batch [50/92] Loss: 2.0820
+    Batch [60/92] Loss: 2.0292
+    Batch [70/92] Loss: 2.1281
+    Batch [80/92] Loss: 2.4803
+    Batch [90/92] Loss: 2.2423
+  Epoch [9/10] Train Loss: 2.1980 Acc: 0.1906 | Val Loss: 2.1536 Acc: 0.2046
+    Batch [10/92] Loss: 2.2023
+    Batch [20/92] Loss: 2.2207
+    Batch [30/92] Loss: 2.1688
+    Batch [40/92] Loss: 2.1621
+    Batch [50/92] Loss: 2.1488
+    Batch [60/92] Loss: 2.1324
+    Batch [70/92] Loss: 2.0924
+    Batch [80/92] Loss: 2.1949
+    Batch [90/92] Loss: 2.0418
+  Epoch [10/10] Train Loss: 2.1945 Acc: 0.1913 | Val Loss: 2.1235 Acc: 0.2443
+    Batch [10/183] Loss: 2.2839
+    Batch [20/183] Loss: 2.4056
+    Batch [30/183] Loss: 2.2903
+    Batch [40/183] Loss: 2.3009
+    Batch [50/183] Loss: 2.2963
+    Batch [60/183] Loss: 2.3313
+    Batch [70/183] Loss: 2.2162
+    Batch [80/183] Loss: 2.3490
+    Batch [90/183] Loss: 2.3087
+    Batch [100/183] Loss: 2.3317
+    Batch [110/183] Loss: 2.4332
+    Batch [120/183] Loss: 2.2235
+    Batch [130/183] Loss: 2.2707
+    Batch [140/183] Loss: 2.1672
+    Batch [150/183] Loss: 2.2895
+    Batch [160/183] Loss: 2.2333
+    Batch [170/183] Loss: 2.3082
+    Batch [180/183] Loss: 2.2762
+  Epoch [1/10] Train Loss: 2.3047 Acc: 0.1247 | Val Loss: 2.2497 Acc: 0.1925
+  Saved best checkpoint to outputs/checkpoints/plantwild_optuna_plantcnn_best.pt
+    Batch [10/183] Loss: 2.2930
+    Batch [20/183] Loss: 2.3689
+    Batch [30/183] Loss: 2.2009
+    Batch [40/183] Loss: 2.2402
+    Batch [50/183] Loss: 2.2285
+    Batch [60/183] Loss: 2.1237
+    Batch [70/183] Loss: 2.2063
+    Batch [80/183] Loss: 2.3274
+    Batch [90/183] Loss: 2.2854
+    Batch [100/183] Loss: 2.2308
+    Batch [110/183] Loss: 2.2078
+    Batch [120/183] Loss: 2.1431
+    Batch [130/183] Loss: 2.2985
+    Batch [140/183] Loss: 2.2141
+    Batch [150/183] Loss: 2.1683
+    Batch [160/183] Loss: 2.3058
+    Batch [170/183] Loss: 2.2543
+    Batch [180/183] Loss: 2.1649
+  Epoch [2/10] Train Loss: 2.2602 Acc: 0.1581 | Val Loss: 2.2121 Acc: 0.2238
+  Saved best checkpoint to outputs/checkpoints/plantwild_optuna_plantcnn_best.pt
+    Batch [10/183] Loss: 2.1755
+    Batch [20/183] Loss: 2.3920
+    Batch [30/183] Loss: 2.3282
+    Batch [40/183] Loss: 2.2684
+    Batch [50/183] Loss: 2.2344
+    Batch [60/183] Loss: 2.3381
+    Batch [70/183] Loss: 2.2696
+    Batch [80/183] Loss: 2.2025
+    Batch [90/183] Loss: 2.1633
+    Batch [100/183] Loss: 2.3134
+    Batch [110/183] Loss: 2.2079
+    Batch [120/183] Loss: 2.3533
+    Batch [130/183] Loss: 2.1664
+    Batch [140/183] Loss: 2.1814
+    Batch [150/183] Loss: 2.2418
+    Batch [160/183] Loss: 2.3005
+    Batch [170/183] Loss: 2.3328
+    Batch [180/183] Loss: 2.2496
+  Epoch [3/10] Train Loss: 2.2450 Acc: 0.1810 | Val Loss: 2.1915 Acc: 0.2335
+  Saved best checkpoint to outputs/checkpoints/plantwild_optuna_plantcnn_best.pt
+    Batch [10/183] Loss: 2.2112
+    Batch [20/183] Loss: 2.2388
+    Batch [30/183] Loss: 2.2459
+    Batch [40/183] Loss: 2.2531
+    Batch [50/183] Loss: 2.3336
+    Batch [60/183] Loss: 2.2634
+    Batch [70/183] Loss: 2.1895
+    Batch [80/183] Loss: 2.0803
+    Batch [90/183] Loss: 2.1979
+    Batch [100/183] Loss: 2.1733
+    Batch [110/183] Loss: 2.1909
+    Batch [120/183] Loss: 2.2418
+    Batch [130/183] Loss: 2.1593
+    Batch [140/183] Loss: 2.1842
+    Batch [150/183] Loss: 2.2118
+    Batch [160/183] Loss: 2.1794
+    Batch [170/183] Loss: 2.2888
+    Batch [180/183] Loss: 2.2255
+  Epoch [4/10] Train Loss: 2.2255 Acc: 0.1909 | Val Loss: 2.1775 Acc: 0.2467
+  Saved best checkpoint to outputs/checkpoints/plantwild_optuna_plantcnn_best.pt
+    Batch [10/183] Loss: 2.2852
+    Batch [20/183] Loss: 2.3528
+    Batch [30/183] Loss: 2.1622
+    Batch [40/183] Loss: 2.2151
+    Batch [50/183] Loss: 2.2708
+    Batch [60/183] Loss: 2.3870
+    Batch [70/183] Loss: 2.1827
+    Batch [80/183] Loss: 2.4380
+    Batch [90/183] Loss: 2.2922
+    Batch [100/183] Loss: 2.0605
+    Batch [110/183] Loss: 2.1884
+    Batch [120/183] Loss: 2.3363
+    Batch [130/183] Loss: 2.1263
+    Batch [140/183] Loss: 2.2219
+    Batch [150/183] Loss: 2.1954
+    Batch [160/183] Loss: 2.1984
+    Batch [170/183] Loss: 2.2037
+    Batch [180/183] Loss: 2.3360
+  Epoch [5/10] Train Loss: 2.2245 Acc: 0.1943 | Val Loss: 2.1606 Acc: 0.2623
+  Saved best checkpoint to outputs/checkpoints/plantwild_optuna_plantcnn_best.pt
+    Batch [10/183] Loss: 2.1493
+    Batch [20/183] Loss: 2.3361
+    Batch [30/183] Loss: 2.1710
+    Batch [40/183] Loss: 2.2121
+    Batch [50/183] Loss: 2.1750
+    Batch [60/183] Loss: 2.1806
+    Batch [70/183] Loss: 2.2468
+    Batch [80/183] Loss: 2.1423
+    Batch [90/183] Loss: 2.1589
+    Batch [100/183] Loss: 2.1865
+    Batch [110/183] Loss: 2.1125
+    Batch [120/183] Loss: 2.1572
+    Batch [130/183] Loss: 2.2384
+    Batch [140/183] Loss: 2.2839
+    Batch [150/183] Loss: 2.1537
+    Batch [160/183] Loss: 2.1627
+    Batch [170/183] Loss: 2.3668
+    Batch [180/183] Loss: 2.1566
+  Epoch [6/10] Train Loss: 2.2061 Acc: 0.2022 | Val Loss: 2.1473 Acc: 0.2804
+  Saved best checkpoint to outputs/checkpoints/plantwild_optuna_plantcnn_best.pt
+    Batch [10/183] Loss: 2.3095
+    Batch [20/183] Loss: 2.1219
+    Batch [30/183] Loss: 2.2853
+    Batch [40/183] Loss: 2.2024
+    Batch [50/183] Loss: 2.2150
+    Batch [60/183] Loss: 2.2483
+    Batch [70/183] Loss: 2.1443
+    Batch [80/183] Loss: 2.2945
+    Batch [90/183] Loss: 2.3418
+    Batch [100/183] Loss: 2.1316
+    Batch [110/183] Loss: 2.1363
+    Batch [120/183] Loss: 2.2027
+    Batch [130/183] Loss: 2.3031
+    Batch [140/183] Loss: 2.3156
+    Batch [150/183] Loss: 2.1985
+    Batch [160/183] Loss: 2.2152
+    Batch [170/183] Loss: 2.0907
+    Batch [180/183] Loss: 2.3331
+  Epoch [7/10] Train Loss: 2.2048 Acc: 0.2066 | Val Loss: 2.1318 Acc: 0.2852
+  Saved best checkpoint to outputs/checkpoints/plantwild_optuna_plantcnn_best.pt
+    Batch [10/183] Loss: 2.1524
+    Batch [20/183] Loss: 2.3118
+    Batch [30/183] Loss: 2.0231
+    Batch [40/183] Loss: 1.9749
+    Batch [50/183] Loss: 2.4504
+    Batch [60/183] Loss: 2.2713
+    Batch [70/183] Loss: 2.2915
+    Batch [80/183] Loss: 2.1043
+    Batch [90/183] Loss: 2.2553
+    Batch [100/183] Loss: 2.1327
+    Batch [110/183] Loss: 2.0169
+    Batch [120/183] Loss: 2.1437
+    Batch [130/183] Loss: 2.2385
+    Batch [140/183] Loss: 2.2060
+    Batch [150/183] Loss: 2.1753
+    Batch [160/183] Loss: 2.4568
+    Batch [170/183] Loss: 2.3207
+    Batch [180/183] Loss: 2.2393
+  Epoch [8/10] Train Loss: 2.1951 Acc: 0.2281 | Val Loss: 2.1238 Acc: 0.3020
+  Saved best checkpoint to outputs/checkpoints/plantwild_optuna_plantcnn_best.pt
+    Batch [10/183] Loss: 2.0390
+    Batch [20/183] Loss: 2.0271
+    Batch [30/183] Loss: 2.2261
+    Batch [40/183] Loss: 2.2623
+    Batch [50/183] Loss: 2.2495
+    Batch [60/183] Loss: 2.2147
+    Batch [70/183] Loss: 2.1864
+    Batch [80/183] Loss: 2.2131
+    Batch [90/183] Loss: 2.0728
+    Batch [100/183] Loss: 2.1392
+    Batch [110/183] Loss: 2.2860
+    Batch [120/183] Loss: 2.1925
+    Batch [130/183] Loss: 2.1070
+    Batch [140/183] Loss: 2.1170
+    Batch [150/183] Loss: 2.1677
+    Batch [160/183] Loss: 2.2214
+    Batch [170/183] Loss: 2.2874
+    Batch [180/183] Loss: 2.2650
+  Epoch [9/10] Train Loss: 2.1943 Acc: 0.2104 | Val Loss: 2.1103 Acc: 0.2984
+    Batch [10/183] Loss: 2.1974
+    Batch [20/183] Loss: 2.1436
+    Batch [30/183] Loss: 2.2718
+    Batch [40/183] Loss: 2.3565
+    Batch [50/183] Loss: 2.2404
+    Batch [60/183] Loss: 2.1813
+    Batch [70/183] Loss: 2.2212
+    Batch [80/183] Loss: 2.1386
+    Batch [90/183] Loss: 2.2521
+    Batch [100/183] Loss: 1.9784
+    Batch [110/183] Loss: 2.1491
+    Batch [120/183] Loss: 2.1650
+    Batch [130/183] Loss: 2.1369
+    Batch [140/183] Loss: 2.1353
+    Batch [150/183] Loss: 2.0475
+    Batch [160/183] Loss: 2.2246
+    Batch [170/183] Loss: 2.2624
+    Batch [180/183] Loss: 2.0285
+  Epoch [10/10] Train Loss: 2.1910 Acc: 0.2199 | Val Loss: 2.1021 Acc: 0.2948
+
+============================================================
+OPTIMIZATION COMPLETE
+============================================================
+
+Number of finished trials: 5
+
+Best trial:
+  Value (val accuracy): 0.3935
+  Params:
+    learning_rate: 0.0002969427243492695
+    dropout: 0.2713521886463245
+    batch_size: 32
+
+All trials:
+  Trial 0: val_acc=0.3369 | params={'learning_rate': 6.727747311340715e-05, 'dropout': 0.5050255721303847, 'batch_size': 32}
+  Trial 1: val_acc=0.3935 | params={'learning_rate': 0.0002969427243492695, 'dropout': 0.2713521886463245, 'batch_size': 32}
+  Trial 2: val_acc=0.3923 | params={'learning_rate': 0.0031468471828028466, 'dropout': 0.20816533862953213, 'batch_size': 32}
+  Trial 3: val_acc=0.2455 | params={'learning_rate': 0.009685612329614774, 'dropout': 0.5137038470252518, 'batch_size': 32}
+  Trial 4: val_acc=0.3020 | params={'learning_rate': 2.516666666059229e-05, 'dropout': 0.5965375513869562, 'batch_size': 16}
+
+Visualization plots saved to outputs/optuna/

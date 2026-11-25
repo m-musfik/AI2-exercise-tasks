@@ -1,0 +1,11 @@
+Loaded config from: config.yaml
+Using device: cuda
+    Batch [10/92] Loss: 2.3223
+    Batch [20/92] Loss: 2.2286
+    Batch [30/92] Loss: 2.1918
+    Batch [40/92] Loss: 2.2890
+    Batch [50/92] Loss: 2.2038
+    Batch [60/92] Loss: 2.1619
+    Batch [70/92] Loss: 2.0992
+    Batch [80/92] Loss: 2.1599
+    Batch [90/92] Loss: 2.0815

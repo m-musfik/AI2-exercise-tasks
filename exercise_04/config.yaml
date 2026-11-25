@@ -6,7 +6,7 @@
 # ============================================================================
 
 # --- Experiment ---
-experiment_name: "plantwild_optuna_plantcnn"
+experiment_name: "plantwild_plantcnn"
 seed: 42
 
 # --- Data ---
@@ -24,12 +24,12 @@ model:
   name: "plantcnn"                 # "plantcnn" is a simple CNN; "resnet18" is a deeper architecture
   pretrained: true             # ignored for plantcnn; applies when switching to resnet18, vgg16, etc.
   num_classes: 10              # adjust to match your dataset subset
-  dropout: 0.5                 # overridden by Optuna (used by plantcnn/vgg16)
+  dropout: 0.2713521886463245
 
 # --- Training ---
 training:
   epochs: 10                   # fewer epochs per trial to keep search fast
-  learning_rate: 0.001         # overridden by Optuna
+  learning_rate: 0.0002969427243492695
   optimizer: "adamw"           # fixed — AdamW is a strong default for vision tasks
   weight_decay: 0.0001
   n_trials: 5                   # number of Optuna trials to run

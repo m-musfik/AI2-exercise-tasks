@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "/home/hswts129907/AI2-exercise-tasks/exercise_04/optuna_search.py", line 172, in <module>
+    main(args.config)
+  File "/home/hswts129907/AI2-exercise-tasks/exercise_04/optuna_search.py", line 117, in main
+    study.optimize(
+AttributeError: 'NoneType' object has no attribute 'optimize'

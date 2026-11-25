@@ -1,0 +1,112 @@
+Loaded config from: config.yaml
+Using device: cuda
+    Batch [10/92] Loss: 2.2752
+    Batch [20/92] Loss: 2.2464
+    Batch [30/92] Loss: 2.2513
+    Batch [40/92] Loss: 2.1950
+    Batch [50/92] Loss: 2.1949
+    Batch [60/92] Loss: 2.0656
+    Batch [70/92] Loss: 2.1500
+    Batch [80/92] Loss: 2.1793
+    Batch [90/92] Loss: 2.0160
+  Epoch [1/10] Train Loss: 2.2164 Acc: 0.2001 | Val Loss: 2.1088 Acc: 0.2828
+  Saved best checkpoint to outputs/checkpoints/plantwild_plantcnn_best.pt
+    Batch [10/92] Loss: 2.1551
+    Batch [20/92] Loss: 2.1487
+    Batch [30/92] Loss: 1.9809
+    Batch [40/92] Loss: 2.1961
+    Batch [50/92] Loss: 2.1987
+    Batch [60/92] Loss: 2.0800
+    Batch [70/92] Loss: 2.1658
+    Batch [80/92] Loss: 2.0727
+    Batch [90/92] Loss: 2.1310
+  Epoch [2/10] Train Loss: 2.1323 Acc: 0.2561 | Val Loss: 2.0243 Acc: 0.3189
+  Saved best checkpoint to outputs/checkpoints/plantwild_plantcnn_best.pt
+    Batch [10/92] Loss: 2.0894
+    Batch [20/92] Loss: 2.0640
+    Batch [30/92] Loss: 2.1758
+    Batch [40/92] Loss: 2.0903
+    Batch [50/92] Loss: 1.9946
+    Batch [60/92] Loss: 2.0407
+    Batch [70/92] Loss: 1.9500
+    Batch [80/92] Loss: 2.1856
+    Batch [90/92] Loss: 2.0509
+  Epoch [3/10] Train Loss: 2.0996 Acc: 0.2582 | Val Loss: 1.9847 Acc: 0.3345
+  Saved best checkpoint to outputs/checkpoints/plantwild_plantcnn_best.pt
+    Batch [10/92] Loss: 2.1809
+    Batch [20/92] Loss: 2.0552
+    Batch [30/92] Loss: 2.2011
+    Batch [40/92] Loss: 2.0362
+    Batch [50/92] Loss: 2.1666
+    Batch [60/92] Loss: 2.1758
+    Batch [70/92] Loss: 1.9839
+    Batch [80/92] Loss: 2.0278
+    Batch [90/92] Loss: 1.9622
+  Epoch [4/10] Train Loss: 2.0611 Acc: 0.2814 | Val Loss: 1.9336 Acc: 0.3394
+  Saved best checkpoint to outputs/checkpoints/plantwild_plantcnn_best.pt
+    Batch [10/92] Loss: 1.9672
+    Batch [20/92] Loss: 2.0606
+    Batch [30/92] Loss: 2.1228
+    Batch [40/92] Loss: 2.1046
+    Batch [50/92] Loss: 2.2881
+    Batch [60/92] Loss: 2.0661
+    Batch [70/92] Loss: 2.0300
+    Batch [80/92] Loss: 2.1805
+    Batch [90/92] Loss: 2.0150
+  Epoch [5/10] Train Loss: 2.0547 Acc: 0.2695 | Val Loss: 1.8991 Acc: 0.3803
+  Saved best checkpoint to outputs/checkpoints/plantwild_plantcnn_best.pt
+    Batch [10/92] Loss: 2.0772
+    Batch [20/92] Loss: 2.1201
+    Batch [30/92] Loss: 2.0039
+    Batch [40/92] Loss: 1.8571
+    Batch [50/92] Loss: 1.8814
+    Batch [60/92] Loss: 2.1662
+    Batch [70/92] Loss: 2.1433
+    Batch [80/92] Loss: 1.8295
+    Batch [90/92] Loss: 1.9516
+  Epoch [6/10] Train Loss: 2.0283 Acc: 0.2862 | Val Loss: 1.8921 Acc: 0.3827
+  Saved best checkpoint to outputs/checkpoints/plantwild_plantcnn_best.pt
+    Batch [10/92] Loss: 1.8869
+    Batch [20/92] Loss: 2.0130
+    Batch [30/92] Loss: 2.0319
+    Batch [40/92] Loss: 2.0095
+    Batch [50/92] Loss: 2.1994
+    Batch [60/92] Loss: 2.1045
+    Batch [70/92] Loss: 2.0714
+    Batch [80/92] Loss: 1.9910
+    Batch [90/92] Loss: 1.9467
+  Epoch [7/10] Train Loss: 2.0179 Acc: 0.2900 | Val Loss: 1.8665 Acc: 0.3730
+    Batch [10/92] Loss: 2.1867
+    Batch [20/92] Loss: 1.8768
+    Batch [30/92] Loss: 1.9528
+    Batch [40/92] Loss: 2.0263
+    Batch [50/92] Loss: 1.8238
+    Batch [60/92] Loss: 1.9234
+    Batch [70/92] Loss: 2.0302
+    Batch [80/92] Loss: 2.0090
+    Batch [90/92] Loss: 1.8744
+  Epoch [8/10] Train Loss: 1.9840 Acc: 0.2982 | Val Loss: 1.8394 Acc: 0.3887
+  Saved best checkpoint to outputs/checkpoints/plantwild_plantcnn_best.pt
+    Batch [10/92] Loss: 2.0867
+    Batch [20/92] Loss: 2.1186
+    Batch [30/92] Loss: 1.7187
+    Batch [40/92] Loss: 2.1498
+    Batch [50/92] Loss: 1.9036
+    Batch [60/92] Loss: 1.8825
+    Batch [70/92] Loss: 1.9185
+    Batch [80/92] Loss: 2.2733
+    Batch [90/92] Loss: 2.0805
+  Epoch [9/10] Train Loss: 1.9859 Acc: 0.2988 | Val Loss: 1.8075 Acc: 0.3935
+  Saved best checkpoint to outputs/checkpoints/plantwild_plantcnn_best.pt
+    Batch [10/92] Loss: 1.9903
+    Batch [20/92] Loss: 2.1090
+    Batch [30/92] Loss: 1.9295
+    Batch [40/92] Loss: 1.9874
+    Batch [50/92] Loss: 1.8329
+    Batch [60/92] Loss: 1.7681
+    Batch [70/92] Loss: 1.9346
+    Batch [80/92] Loss: 1.9318
+    Batch [90/92] Loss: 1.7517
+  Epoch [10/10] Train Loss: 1.9765 Acc: 0.3152 | Val Loss: 1.8565 Acc: 0.3442
+
+Training complete. Best val accuracy: 0.3935
